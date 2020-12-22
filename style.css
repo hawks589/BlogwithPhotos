@@ -1,0 +1,11 @@
+body {
+  text-align: center;
+  font-style: italic;
+  background-color: #01579b;
+}
+.sp,.div {
+  margin: 20px;
+}
+img {
+  width: 20%;
+}
